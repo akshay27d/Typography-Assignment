@@ -71,17 +71,6 @@ nav li {
 	margin-left: 60px;
 }
 
-a:hover {
-
-	color: red;
-	font-size: 17px;
-}
-
-a:active {
-	background-color: white;
-	color: purple;
-}
-
 
 .menu ul {
 	/*font-family: "Comic Sans MS", cursive, sans-serif;*/

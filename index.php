@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-	<title>Assignment 3: Website Smash | AFC Divisions | Team Seoul</title>
+	<title>Assignment 6: Readability | AFC Divisions | Akshay Desai</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="container">
