@@ -5,3 +5,4 @@
 - I made the line-width shorter from 90% to 80% so the reader can span it more easily.
 - I removed the figcaptions because they did not add much but cluttered the view
 - I made the background color lighter to make more contrast between the text and background.
+- I removed the changing font size in the nav so the content doesn't move around
