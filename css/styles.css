@@ -1,28 +1,38 @@
-.is-current {
-	background-color: red;
+@font-face {
+  font-family: bevan;
+  src: url(./bevan.ttf);
+}
+@font-face {
+  font-family: pontanosans;
+  src: url(./pontanosans.ttf);
 }
 
+* {
+	font-family: pontanosans;
+}
 h1 {
-
-	font-family: Comic Sans MS;
+	font-family: bevan;
 	font-size: 38px;
 	color: navy;
 }
 
 h2 {
-
+	font-family: bevan;
     width: 98%;
     border-bottom: 3px solid red;
 }
 
 body {
+	background-color: #ededed
+}
 
-	background-color: #D3D3D3
+p {
+	line-height: 1.5em;
 }
 
 .container {
 	margin: 0 auto;
-	width: 90%;
+	width: 80%;
 	max-width: 960px;
 
 	display: grid;
@@ -31,7 +41,7 @@ body {
 
 h3 {
 
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: bevan;
 }
 .column {
 	flex: 33.33%;
@@ -74,7 +84,7 @@ a:active {
 
 
 .menu ul {
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	/*font-family: "Comic Sans MS", cursive, sans-serif;*/
 	margin: 0;
 	padding-left: 0;
 	list-style-type: none;
