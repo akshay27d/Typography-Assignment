@@ -71,6 +71,10 @@ nav li {
 	margin-left: 60px;
 }
 
+a:hover {
+	font-weight: 800;
+}
+
 
 .menu ul {
 	/*font-family: "Comic Sans MS", cursive, sans-serif;*/
